@@ -17,6 +17,6 @@ const img = document.querySelector("#profile img")
 
   //se tiver sem light mode, manter a imagem normal
 
-  img.setAttribute("src", "./assets/Captura de tela 2026-02-17 203902.png")
+  img.setAttribute("src", "./assets/foto 1.png")
  }
 }
